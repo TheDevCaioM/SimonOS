@@ -1,4 +1,4 @@
-## 🐧 SimonOS — Um Sonho que se Compila
+## 🐧 SimonOS: Um Sonho que se Compila
 
 “Alguns escrevem músicas, outros pintam quadros…
 eu decidi criar meu próprio Linux.”
