@@ -34,16 +34,16 @@ então o objetivo já foi cumprido.
 
 ## Objetivos
 
-Aprender profundamente como um sistema operacional realmente nasce — do bootloader ao shell.
+Aprender profundamente como um sistema operacional realmente nascedo bootloader ao shell.
 Construir tudo do zero, sem atalhos, com cada erro se tornando parte do aprendizado.
 Criar uma identidade visual única, elegante, humana e minimalista.
 Manter tudo open-source, para que qualquer um possa aprender, contribuir e evoluir junto.
 
-“Não se trata de reinventar a roda — se trata de entender como ela gira.”
+“Não se trata de reinventar a rodase trata de entender como ela gira.”
 
 ## Filosofia SimonOS
 
-“Simplicidade, liberdade e propósito — o resto é só código.”
+“Simplicidade, liberdade e propósitoo resto é só código.”
 
 Simplicidade: Clareza antes da complexidade.  
 Liberdade: O conhecimento deve ser livre, sempre.  
@@ -63,7 +63,7 @@ Bootloaders (GRUB e versões próprias);
 
 Shell minimalista e eficiente;  
 
-Filesystem, processos, drivers e muito mais — tudo moldado na base da curiosidade e persistência.  
+Filesystem, processos, drivers e muito maistudo moldado na base da curiosidade e persistência.  
 
 ---
 
@@ -73,7 +73,7 @@ Filesystem, processos, drivers e muito mais — tudo moldado na base da curiosid
 Mas cada commit é um tijolo. Cada erro, uma lição.
 E cada noite em claro, um lembrete de que a paixão é o verdadeiro combustível da criação.
 
-O futuro ainda está sendo escrito — linha por linha.
+O futuro ainda está sendo escritolinha por linha.
 E se você quiser acompanhar essa jornada (ou fazer parte dela), seja bem-vindo. ❤️
 
 ---
