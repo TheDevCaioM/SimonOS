@@ -34,16 +34,16 @@ então o objetivo já foi cumprido.
 
 ## Objetivos
 
-Aprender profundamente como um sistema operacional realmente nascedo bootloader ao shell.
+Aprender profundamente como um sistema operacional realmente nasce do bootloader ao shell.
 Construir tudo do zero, sem atalhos, com cada erro se tornando parte do aprendizado.
 Criar uma identidade visual única, elegante, humana e minimalista.
 Manter tudo open-source, para que qualquer um possa aprender, contribuir e evoluir junto.
 
-“Não se trata de reinventar a rodase trata de entender como ela gira.”
+“Não se trata de reinventar a roda, se trata de entender como ela gira.”
 
 ## Filosofia SimonOS
 
-“Simplicidade, liberdade e propósitoo resto é só código.”
+“Simplicidade, liberdade e propósito, o resto é só código.”
 
 Simplicidade: Clareza antes da complexidade.  
 Liberdade: O conhecimento deve ser livre, sempre.  
@@ -73,14 +73,20 @@ Filesystem, processos, drivers e muito maistudo moldado na base da curiosidade e
 Mas cada commit é um tijolo. Cada erro, uma lição.
 E cada noite em claro, um lembrete de que a paixão é o verdadeiro combustível da criação.
 
-O futuro ainda está sendo escritolinha por linha.
+O futuro ainda está sendo escrito linha por linha.
 E se você quiser acompanhar essa jornada (ou fazer parte dela), seja bem-vindo. ❤️
 
 ---
 
 Autor:
-Eu, eu mesmo...Caio Melo
+Eu, eu mesmo... Caio Melo
+
+### 💬 Contato
 
 📧 **E-mail:** [caiomelomorais.c.js@gmail.com](mailto:caiomelomorais.c.js@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/caio-melo-930433362](https://www.linkedin.com/in/caio-melo-930433362/)  
 🌐 **GitHub:** [github.com/TheDevCaioM](https://github.com/TheDevCaioM)
+
+<div align="center">
+⭐️ Não esqueça de dar uma estrela se este projeto te ajudou ou vai te ajudar em algum momento da sua vida! ⭐️
+</div>
