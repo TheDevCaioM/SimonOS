@@ -1,18 +1,22 @@
 # CHANGELOG
 
-Todos as mudanças significativas para este projeto serão documentadas aqui.
+Todos as mudanças significativas para este projeto serão documentadas aqui. (e sim, serei informal as vezes, é meu jeito, fazer o que :p)
 
 ---
 
-## [Unreleased]
+## [0.6.21] - 08/08/2026
 ### Adicionado
-- (funcionalidades planejadas para a próxima versão)
+- Correção de terminal para integrações de personalização (rice), garantindo que os temas e cores carreguem limpos e sem quebrar o visual.
+- Gerenciamento de janelas aprimorado, trazendo novos ajustes de comportamento e fluidez. 
 ### Alterado
-- (mudanças em funcionalidades existentes)
+- Gerenciamento de memória refinado para espremer mais performance e otimizar o consumo de recursos.
 ### Corrigido
-- (bugs resolvidos, melhorias de estabilidade)
+- Arquivos de configuração do Vulkan ajustados para eliminar falhas de inicialização e aqueles travamentos chatos em gráficos.
+- Bugs gerais resolvidos e melhorias pontuais de estabilidade para o sistema rodar liso.
 ### Nota
-Em breve...
+Olá... sim eu sei, fiquei meses, quase 1 ano sem postar nenhum changelog, nenhuma atualização e nem nada parecido, primeiro de tudo, não, eu não parei com o projeto, apenas estive ocupado com outras coisas,
+e sim, muitas delas envolvem a minha empresa de desenvolvimento de bots, sites, softwares e templates prontos para servidores no discord (que inclusive ta muito boa, passem lá depois https://discord.gg/u6qUP2VQV2)
+minha faculdade, trabalho, enfim, bastante coisa, mas só paro quando finalmente lançar nem que seja a versão de teste para testar e implementar no pc de vocês, enfim, em breve irei postar a versão de teste para implementar os sistemas de gerenciamento e pelo menos o cli, FIQUEM LIGADOS EMMMM C:<
 
 ---
 
@@ -28,7 +32,7 @@ Em breve...
 - Correções iniciais de compilação para arquitetura alvo.  
 - Problema na carga do módulo de vídeo corrigido.
 ### Nota
-Lembrar de colocar o driver de vídeo mais recente da AMD e NVIDIA (ainda não coloquei os arquivos no github mas irei postar assim que possível)
+não coloquei e não lembro onde está as alterações, esqueci de colocar no git kkkkk, mas com certeza deve estar nos arquivos que salvei nessa época
 
 ---
 
